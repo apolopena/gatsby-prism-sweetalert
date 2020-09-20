@@ -44,6 +44,14 @@
             "title": "GraphiQL"
           },
           "closeable": true
+        },
+        {
+          "id": "codesandbox.browser",
+          "options": {
+            "port": 8000,
+            "url": "https://cvqvx-8000.sse.codesandbox.io"
+          },
+          "closeable": true
         }
       ]
     },

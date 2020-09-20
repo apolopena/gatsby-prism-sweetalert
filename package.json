@@ -4,6 +4,8 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "antd": "^4.6.4",
+    "antd-mobile": "^2.3.4",
     "babel-plugin-prismjs": "^2.0.1",
     "babel-preset-gatsby": "^0.5.10",
     "gatsby": "^2.24.57",
